@@ -1,4 +1,4 @@
-# Multiple Page Portfolio - A modern, responsive portfolio website built with Next.js 14, featuring multiple pages including a blog system, projects showcase, and about page.
+# My Portfolio - A modern, responsive portfolio website built with Next.js 14, featuring multiple pages including a blog system, projects showcase, and about page.
 
 #### Preview
 
