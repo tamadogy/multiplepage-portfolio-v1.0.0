@@ -6,31 +6,31 @@ export const projectsConfig = {
   items: [
     {
       title: "Project One",
-      // description: "A brief description of your first project. Explain what it does and what technologies you used.",
+      description: "SPX Options Trading Automation System",
       href: "#!",
       imageUrl: "/assets/images/Cascade SPX Options Trading Dashboard.png"
     },
     {
       title: "Project Two",
-      // description: "Describe your second project here. Highlight the key features and your role in development.",
+      description: "UrbanBites – Restaurant Management & Delivery Dashboard",
       href: "#!",
       imageUrl: "/assets/images/UrbanBites Restaurant Dashboard.png"
     },
     {
       title: "Project Three",
-      // description: "Share details about your third project. What problems did it solve? What was the outcome?",
+      description: "AI Consulting Lead Capture & Booking Automation",
       href: "#!",
       imageUrl: "/assets/images/port_1/1.png"
     },
     {
       title: "Project Four",
-      // description: "Share details about your third project. What problems did it solve? What was the outcome?",
+      description: "AI-Powered Personalized Storybook Platform",
       href: "#!",
       imageUrl: "/assets/images/port_2/1.png"
     },
     {
       title: "Project Five",
-      // description: "Share details about your third project. What problems did it solve? What was the outcome?",
+      description: "Database-Driven Data Platform | PostgreSQL & REST API",
       href: "#!",
       imageUrl: "/assets/images/port_3/1.png"
     }
